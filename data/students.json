@@ -1,0 +1,12 @@
+[
+  { "student_id": "S101", "student_name": "Alice Smith", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "MATH201", "CS102"] },
+  { "student_id": "S102", "student_name": "Bob Johnson", "major": "Computer Science", "courses_completed": ["CS101"] },
+  { "student_id": "S103", "student_name": "Charlie Brown", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "CS102", "CS401", "MATH201"] },
+  { "student_id": "S104", "student_name": "Diana Prince", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "CS102", "CS201", "CS310", "CS315", "MATH201", "MATH202"] },
+  { "student_id": "S105", "student_name": "Ethan Hunt", "major": "Data Science", "courses_completed": ["CS101", "MATH101", "MATH201", "CS305"] },
+  { "student_id": "S106", "student_name": "Fiona Gallagher", "major": "Computer Science", "courses_completed": [] },
+  { "student_id": "S107", "student_name": "George Washington", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "MATH201", "MATH202", "CS102", "CS201", "CS301", "CS401", "CS405", "CS410"] },
+  { "student_id": "S108", "student_name": "Hannah Abbott", "major": "Computer Science", "courses_completed": ["CS101", "CS205"] },
+  { "student_id": "S109", "student_name": "Ian Malcolm", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "MATH201", "CS102", "CS201", "CS301"] },
+  { "student_id": "S110", "student_name": "Jane Doe", "major": "Computer Science", "courses_completed": ["CS101", "MATH101", "MATH201", "MATH202", "CS102", "CS401", "CS405"] }
+]

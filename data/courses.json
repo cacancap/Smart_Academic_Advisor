@@ -1,0 +1,18 @@
+[
+  { "course_id": "CS101", "course_name": "Introduction to Programming", "credits": 3, "semesters_offered": ["Fall", "Spring", "Summer"], "prerequisites": [] },
+  { "course_id": "MATH101", "course_name": "Calculus I", "credits": 4, "semesters_offered": ["Fall", "Spring"], "prerequisites": [] },
+  { "course_id": "MATH201", "course_name": "Probabilities and Statistics", "credits": 3, "semesters_offered": ["Fall", "Spring"], "prerequisites": ["MATH101"] },
+  { "course_id": "MATH202", "course_name": "Linear Algebra", "credits": 3, "semesters_offered": ["Fall", "Spring"], "prerequisites": ["MATH101"] },
+  { "course_id": "CS102", "course_name": "Data Structures and Algorithms", "credits": 4, "semesters_offered": ["Spring", "Summer"], "prerequisites": ["CS101", "MATH101"] },
+  { "course_id": "CS201", "course_name": "Computer Organization and Architecture", "credits": 3, "semesters_offered": ["Fall"], "prerequisites": ["CS101"] },
+  { "course_id": "CS205", "course_name": "Web Development", "credits": 3, "semesters_offered": ["Fall", "Spring"], "prerequisites": ["CS101"] },
+  { "course_id": "CS301", "course_name": "Database Systems", "credits": 3, "semesters_offered": ["Spring"], "prerequisites": ["CS102"] },
+  { "course_id": "CS305", "course_name": "Data Science", "credits": 4, "semesters_offered": ["Fall"], "prerequisites": ["MATH201", "CS101"] },
+  { "course_id": "CS310", "course_name": "Operating Systems", "credits": 4, "semesters_offered": ["Fall"], "prerequisites": ["CS201", "CS102"] },
+  { "course_id": "CS315", "course_name": "Computer Networks", "credits": 3, "semesters_offered": ["Spring"], "prerequisites": ["CS201"] },
+  { "course_id": "CS401", "course_name": "Artificial Intelligence", "credits": 4, "semesters_offered": ["Fall"], "prerequisites": ["CS102", "MATH201"] },
+  { "course_id": "CS405", "course_name": "Machine Learning", "credits": 4, "semesters_offered": ["Spring"], "prerequisites": ["CS401"] },
+  { "course_id": "CS410", "course_name": "Deep Learning", "credits": 4, "semesters_offered": ["Fall"], "prerequisites": ["CS405"] },
+  { "course_id": "CS420", "course_name": "Computer Security", "credits": 3, "semesters_offered": ["Spring"], "prerequisites": ["CS310", "CS315"] },
+  { "course_id": "CS450", "course_name": "Natural Language Processing", "credits": 4, "semesters_offered": ["Spring"], "prerequisites": ["CS405", "MATH202"] }
+]

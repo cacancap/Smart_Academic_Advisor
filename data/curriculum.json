@@ -1,0 +1,22 @@
+{
+  "Computer Science": {
+    "core_requirements": [
+      "CS101", "MATH101", "CS102", "CS201", "CS301", "CS310", "CS315"
+    ],
+    "elective_requirements": 2,
+    "electives_pool": [
+      "CS205", "CS401", "CS405", "CS410", "CS420", "CS450", "MATH201", "MATH202", "CS305"
+    ],
+    "total_credits_required": 30
+  },
+  "Data Science": {
+    "core_requirements": [
+      "CS101", "MATH101", "MATH201", "MATH202", "CS102", "CS301", "CS305"
+    ],
+    "elective_requirements": 2,
+    "electives_pool": [
+      "CS401", "CS405", "CS410", "CS450"
+    ],
+    "total_credits_required": 28
+  }
+}
